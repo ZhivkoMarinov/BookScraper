@@ -1,4 +1,4 @@
-# BookScraper S03-Py-team-3
+# BookScraper of https://books.toscrape.com/
 
 * ## Project Summary
 
